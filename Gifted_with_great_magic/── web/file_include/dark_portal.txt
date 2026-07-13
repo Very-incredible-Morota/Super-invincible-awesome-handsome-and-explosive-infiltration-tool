@@ -1,0 +1,36 @@
+C:\Windows\System32\drivers\etc\hosts
+C:\Windows\win.ini
+C:\Windows\system.ini
+C:\Windows\repair\SAM
+C:\Windows\repair\SYSTEM
+C:\Windows\debug\NetSetup.log
+C:\Windows\System32\config\SAM
+C:\Windows\System32\config\SYSTEM
+C:\Windows\System32\config\SECURITY
+C:\Windows\System32\config\SOFTWARE
+C:\Windows\System32\config\DEFAULT
+C:\boot.ini
+C:\inetpub\logs\LogFiles
+C:\inetpub\wwwroot\web.config
+C:\xampp\apache\conf\httpd.conf
+C:\xampp\php\php.ini
+C:\xampp\htdocs\index.php
+C:\wamp\www\index.php
+C:\wamp\bin\apache\conf\httpd.conf
+C:\wamp\bin\php\php.ini
+C:\Program Files\MySQL\my.ini
+C:\Program Files\MySQL\data\
+C:\Program Files (x86)\MySQL\my.ini
+C:\php\php.ini
+C:\Apache24\conf\httpd.conf
+C:\Apache24\htdocs\index.html
+%USERPROFILE%\.ssh\id_rsa
+%USERPROFILE%\.ssh\authorized_keys
+%USERPROFILE%\Desktop\
+%USERPROFILE%\Documents\
+%USERPROFILE%\Downloads\
+%USERPROFILE%\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadLine\ConsoleHost_history.txt
+%APPDATA%\Microsoft\Windows\Recent\
+%LOCALAPPDATA%\Microsoft\Windows\History\
+C:\Users\Administrator\.ssh\id_rsa
+C:\Users\Administrator\Desktop\
